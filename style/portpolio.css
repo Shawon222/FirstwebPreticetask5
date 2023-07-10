@@ -11,6 +11,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 0px 200px;
 }
 
 .nav-title {
@@ -54,4 +55,22 @@ nav li{
 nav a {
     text-decoration: none;
     color: #474747;
+}
+
+/* header section */
+
+.header{
+
+    background-color:#FFF8F3;
+}
+
+.banner{
+
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner.Profile-picture{
+    width: 500px;
+
 }
